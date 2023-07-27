@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003116270776",
+    "project_id": "pembelajaran-photography",
+    "storage_bucket": "pembelajaran-photography.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003116270776:android:baf77af287407d8e48104d",
+        "android_client_info": {
+          "package_name": "com.example.pembelajaran_photography"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmW57jOIN2KQDfxfxXTPIQMSM2x9A89Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

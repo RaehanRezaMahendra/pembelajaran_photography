@@ -1,0 +1,76 @@
+name: pembelajaran_photography
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.4
+  flutter_animate: ^4.1.1+1
+  url_launcher: ^6.1.11
+  flutter_launcher_icons: ^0.13.1
+  photo_view: ^0.14.0
+  firebase_core: ^2.13.0
+  cached_network_image: ^3.2.3
+  cloud_firestore: ^4.7.1
+  uuid: ^3.0.7
+  camera: ^0.10.5+2
+  path_provider: ^2.0.9
+  path: ^1.8.0
+  image_picker: ^0.8.4+4
+  permission_handler: ^10.3.0
+  video_player: ^2.5.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/images/logo.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
